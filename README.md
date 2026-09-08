@@ -9,7 +9,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
+**Your demo:** _[my link is here](https://youtu.be/6PtPfOpJLJ8)_
 
 
 ## What to build
@@ -25,9 +25,9 @@ Lab 2, plus a second block. The first block is who you are. The second block is 
 ## Sample output
 ```
 === About me ===
-Name: Jordan Lee
-Interest: game tools
-CIS 5 goal: ship every week
+Name: Herberth Sanchez-Gomez
+Interest: Systems & Security
+CIS 5 goal: Ship working code every week
 Tool path: GitHub Codespaces
 Fun fact: I debug better after coffee
 
@@ -43,6 +43,9 @@ I can fix the first compiler error and rebuild.
 ## Deliverables
 1. Course-visible GitHub repo (link opens)
 2. README: how to compile and run on your path
+## How to compile and run
+```bash
+g++ -std=c++17 -o program main.cpp && ./program
 3. Short demo video (tool + code + run)
 4. Canvas links
 
